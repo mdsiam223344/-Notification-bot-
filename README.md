@@ -2,7 +2,7 @@
 
 ## Telegram Channel Link Update 
 ## OTT Perform Name
-#  <img width="400" height="400" alt="362786e31ce14afa5d9cfdf21b53901ef196a414e0d502ec2cd1fa069bb0e735" src="https://github.com/user-attachments/assets/75cfbf2c-87ed-4486-8e3a-17d5b1998326" />
+#  <img width="100" height="100" alt="362786e31ce14afa5d9cfdf21b53901ef196a414e0d502ec2cd1fa069bb0e735" src="https://github.com/user-attachments/assets/75cfbf2c-87ed-4486-8e3a-17d5b1998326" />
 JioHotstar
 # ZEE5
 # SonyLIV
