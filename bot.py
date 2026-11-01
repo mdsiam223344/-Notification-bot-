@@ -20,7 +20,7 @@ ADMIN_IDS = {
     int(x.strip()) for x in os.getenv("ADMIN_IDS", "1686274364").split(",")
     if x.strip().isdigit()
 }
-# Required for Channel Archive feature. Example: @your_archive_channel or -1001234567890
+# Required for Channel Archive feature. Example: @updatechannle1 or -1004427032466
 CHANNEL_ID = os.getenv("CHANNEL_ID", "-1004427032466").strip()
 # Set to a Persistent Disk path on Render, e.g. /var/data/ott_bot.db
 DB_PATH = os.getenv("DB_PATH", "data/ott_bot.db")
