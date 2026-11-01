@@ -1,4 +1,15 @@
-# OTT Notification Bot — Telegram Channel + SQLite
+# OTT Notification Bot
+
+## Telegram Channel Link Update 
+## OTT Perform Name
+# JioHotstar
+# ZEE5
+# SonyLIV
+# Sun NXT
+# Dangal Play
+# Netflix
+# Amazon Prime Video
+# Hoichoi
 
 ## How the two-part archive works
 - Telegram Channel stores the actual archive posts (episode caption, poster if supplied, and official watch button).
